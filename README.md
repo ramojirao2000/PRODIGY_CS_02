@@ -26,7 +26,7 @@ pip install pillow numpy
 
 ### 1. Clone or Download the Script
 
-Save the script as `image_encryptor.py` or clone your project folder.
+Save the script as `imageEncryptor.py` or clone your project folder.
 
 ### 2. Run the Script
 
@@ -35,7 +35,7 @@ You can run the tool in two modes:
 #### 🔹 Interactive Mode (For Manual Use)
 
 ```bash
-python image_encryptor.py
+python imageEncryptor.py
 ```
 
 Then follow the on-screen menu:
@@ -55,7 +55,7 @@ Demo mode automatically:
 To run demo mode:
 
 ```bash
-python image_encryptor.py
+python imageEncryptor.py
 ```
 
 Then choose `2` when prompted:
